@@ -4,5 +4,5 @@
 
 ![App Demo](assets/demo.gif)
 <p align="center">
-  <img src="assets/demo.gif" alt="App Demo" width="600"/>
+  <img src="assets/MockItO-rose.gif" alt="Mockito" width="600"/>
 </p>
