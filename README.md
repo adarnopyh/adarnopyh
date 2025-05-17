@@ -2,5 +2,7 @@
 <h3 align="center">:small_red_triangle: A passionate Java developer :small_red_triangle:</h3>
 - 🌱 I’m currently learning **Spring Framework**
 
-
-
+![App Demo](assets/demo.gif)
+<p align="center">
+  <img src="assets/demo.gif" alt="App Demo" width="600"/>
+</p>
