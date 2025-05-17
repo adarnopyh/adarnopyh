@@ -12,12 +12,9 @@ https://img.shields.io/badge/any%20text-you%20like-blue
 
 https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=#663399
 
-[![GitHub](https://img.shields.io/badge/Profile-adarnopyh-blue?style=for-the-badge&logo=github)](https://github.com/adarnopyh)
-
-<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
 
 <a href="https://github.com/adarnopyh" target="_blank">
-  <img src="https://img.shields.io/badge/Profile-adarnopyh-blue?style=for-the-badge&logo=github" alt="GitHub Badge" width="180">
+  <img src="https://img.shields.io/badge/Profile-adarnopyh-blue?style=for-the-badge&logo=github" alt="GitHub Badge" heigth="70">
 </a>
 
 
