@@ -6,5 +6,10 @@
   <img src="assets/Spring-rose.gif" alt="Spring" width="200"/>
 </p>
 
+<div align="center">
+https://img.shields.io/badge/any%20text-you%20like-blue
+</div>
+
+https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=#663399
 
 <pre> ``` This is my text with background shading. Multiple lines are supported inside this block. ``` </pre>
