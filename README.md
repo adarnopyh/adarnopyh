@@ -14,7 +14,7 @@ https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=#6633
 
 
 <a href="https://github.com/adarnopyh" target="_blank">
-  <img src="https://img.shields.io/badge/Profile-adarnopyh-blue?style=for-the-badge&logo=github" alt="GitHub Badge" heigth="70">
+  <img src="https://img.shields.io/badge/Profile-adarnopyh-blue?style=for-the-badge&logo=github" alt="GitHub Badge" height="70">
 </a>
 
 
