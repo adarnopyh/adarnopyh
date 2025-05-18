@@ -1,4 +1,8 @@
 <img src="assets/header.svg" alt="win"/>
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2105AC&background=FF247300&width=435&lines=Hi%2C+my+name+is+Askold%2C+i+like+to+code+happen" alt="Typing SVG" /></a>
+</h1>
 <h1 align="center">Hi! 👋 I'm Askold</h1>
 <h3 align="center">A passionate Java developer</h3>
 <h3 align="center">▙ I’m currently learning Spring Framework</h3>
@@ -24,7 +28,7 @@
 </picture>
 
 
-<h3 align="left">stack and co:</h3>
+<h3 align="left">stack & co:</h3>
 <img src="assets/header-pan1.svg" alt="pan"/>
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
