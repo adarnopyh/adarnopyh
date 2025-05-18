@@ -6,6 +6,7 @@
   <img src="assets/MockItO-rose.gif" alt="Mockito" width="200"/>
   <img src="assets/Spring-rose.gif" alt="Spring" width="200"/>
 </p>
+<img src="assets/pan.svg" alt="pan"/>
 
 <div align="center">
 <img src="https://img.shields.io/badge/any%20text-you%20like-blue"/>
