@@ -3,7 +3,6 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=2105AC&background=FF247300&center=true&width=435&lines=Hi%2C+my+name+is+Askold.;And+I+like+to+make+things+happen." alt="Typing SVG" /></a>
 </h1>
-
 <h3 align="center">A passionate Java developer</h3>
 <h3 align="center">▙ I’m currently learning Spring Framework</h3>
 
@@ -69,11 +68,3 @@
 </p>
 <h3 align="left">lyrics:</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-
-<hr/>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=adarnopyh&icon=0&color=0" alt="Visitor Count"/>
-</a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
