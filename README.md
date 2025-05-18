@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Java developer</h3>
 <h3 align="center">▙ I’m currently learning Spring Framework</h3>
 
+<h4 align="left">nice techs:</h4>
 <img src="assets/header-pan1.svg" alt="pan"/>
 <p align="center">
   <img src="assets/gif/html5-rose.gif" alt="html5" width="100"/>
@@ -15,7 +16,7 @@
   <img src="assets/gif/docker-rose.gif" alt="springboot" width="100"/>
 </p>
 <img src="assets/footer-pan.svg" alt="pan"/>
-
+<h4 align="left">fun:</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarnopyh/adarnopyh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarnopyh/adarnopyh/output/github-snake.svg" />
