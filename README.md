@@ -23,7 +23,6 @@ https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=#6633
     <rect x="0" y="0" width="50" height="20" fill="#007BFF" />
     <text x="25" y="14" font-size="10" text-anchor="middle" fill="white">LEFT</text>
 
-    <!-- Right part (theme-aware color) -->
     <rect x="50" y="0" width="50" height="20" fill="currentColor" />
     <text x="75" y="14" font-size="10" text-anchor="middle" fill="white">RIGHT</text>
   </svg>
