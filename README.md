@@ -8,6 +8,12 @@
 </p>
 <img src="assets/pan.svg" alt="pan"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarnopyh/adarnopyh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarnopyh/adarnopyh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adarnopyh/adarnopyh/output/github-snake.svg" />
+</picture>
+
 <div align="center">
 <img src="https://img.shields.io/badge/any%20text-you%20like-blue"/>
 </div>
