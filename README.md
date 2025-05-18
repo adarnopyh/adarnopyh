@@ -3,16 +3,16 @@
 <h3 align="center">A passionate Java developer</h3>
 <h3 align="center">▙ I’m currently learning Spring Framework</h3>
 <p align="center">
-  <img src="assets/gif/git.gif" alt="git" width="100"/>
-  <img src="assets/gif/html5.gif" alt="html5" width="100"/>
+  <img src="assets/gif/git-rose.gif" alt="git" width="100"/>
+  <img src="assets/gif/html5-rose.gif" alt="html5" width="100"/>
   <img src="assets/gif/scss-rose.gif" alt="scss" width="100"/>
-  <img src="assets/gif/junit.gif" alt="junit" width="200"/>
-  <img src="assets/gif/mockito-rose.gif" alt="mockito" width="200"/>
-  <img src="assets/gif/hibernate-rose.gif" alt="hibernate" width="200"/>
-  <img src="assets/gif/spring-rose.gif" alt="spring" width="200"/>
-  <img src="assets/gif/spring-boot-rose.gif" alt="springboot" width="200"/>
-  <img src="assets/gif/docker-rose.gif" alt="springboot" width="200"/>
-  <img src="assets/gif/kubernetes-rose.gif" alt="springboot" width="200"/>
+  <img src="assets/gif/junit-rose.gif" alt="junit" width="100"/>
+  <img src="assets/gif/mockito-rose.gif" alt="mockito" width="100"/>
+  <img src="assets/gif/hibernate-rose.gif" alt="hibernate" width="100"/>
+  <img src="assets/gif/spring-rose.gif" alt="spring" width="100"/>
+  <img src="assets/gif/spring-boot-rose.gif" alt="springboot" width="100"/>
+  <img src="assets/gif/docker-rose.gif" alt="springboot" width="100"/>
+  <img src="assets/gif/kubernetes-rose.gif" alt="springboot" width="100"/>
 </p>
 <img src="assets/pan.svg" alt="pan"/>
 
