@@ -17,7 +17,14 @@ https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=#6633
   <img src="https://img.shields.io/badge/Profile-adarnopyh-blue?style=for-the-badge&logo=github" alt="GitHub Badge" height="70">
 </a>
 
+<div align="center">
+  <svg viewBox="0 0 100 20" width="100%" height="40" xmlns="http://www.w3.org/2000/svg">
+    <!-- Left part (fixed color) -->
+    <rect x="0" y="0" width="50" height="20" fill="#007BFF" />
+    <text x="25" y="14" font-size="10" text-anchor="middle" fill="white">LEFT</text>
 
-
-
-<pre> ``` This is my text with background shading. Multiple lines are supported inside this block. ``` </pre>
+    <!-- Right part (theme-aware color) -->
+    <rect x="50" y="0" width="50" height="20" fill="currentColor" />
+    <text x="75" y="14" font-size="10" text-anchor="middle" fill="white">RIGHT</text>
+  </svg>
+</div>
