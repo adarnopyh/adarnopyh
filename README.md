@@ -2,7 +2,8 @@
 <h1 align="center">Hi! 👋 I'm Askold</h1>
 <h3 align="center">A passionate Java developer</h3>
 <h3 align="center">▙ I’m currently learning Spring Framework</h3>
-<img src="assets/header-pan.svg" alt="pan"/>
+
+<img src="assets/header-pan1.svg" alt="pan"/>
 <p align="center">
   <img src="assets/gif/html5-rose.gif" alt="html5" width="100"/>
   <img src="assets/gif/scss-rose.gif" alt="scss" width="100"/>
