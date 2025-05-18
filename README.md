@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Java developer</h3>
 <h3 align="center">▙ I’m currently learning Spring Framework</h3>
 <p align="center">
-  <img src="assets/gif/git.gif" alt="git" width="200"/>
-  <img src="assets/gif/html5.gif" alt="html5" width="200"/>
-  <img src="assets/gif/scss-rose.gif" alt="scss" width="200"/>
+  <img src="assets/gif/git.gif" alt="git" width="100"/>
+  <img src="assets/gif/html5.gif" alt="html5" width="100"/>
+  <img src="assets/gif/scss-rose.gif" alt="scss" width="100"/>
   <img src="assets/gif/junit.gif" alt="junit" width="200"/>
   <img src="assets/gif/mockito-rose.gif" alt="mockito" width="200"/>
   <img src="assets/gif/hibernate-rose.gif" alt="hibernate" width="200"/>
