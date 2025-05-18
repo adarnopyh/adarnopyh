@@ -2,6 +2,7 @@
 <h1 align="center">Hi! 👋 I'm Askold</h1>
 <h3 align="center">A passionate Java developer</h3>
 <h3 align="center">▙ I’m currently learning Spring Framework</h3>
+<img src="assets/header-pan.svg" alt="pan"/>
 <p align="center">
   <img src="assets/gif/html5-rose.gif" alt="html5" width="100"/>
   <img src="assets/gif/scss-rose.gif" alt="scss" width="100"/>
@@ -12,21 +13,13 @@
   <img src="assets/gif/spring-boot-rose.gif" alt="springboot" width="100"/>
   <img src="assets/gif/docker-rose.gif" alt="springboot" width="100"/>
 </p>
-<img src="assets/pan.svg" alt="pan"/>
+<img src="assets/footer-pan.svg" alt="pan"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarnopyh/adarnopyh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarnopyh/adarnopyh/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/adarnopyh/adarnopyh/output/github-snake.svg" />
 </picture>
-
-<div align="center">
-<img src="https://img.shields.io/badge/any%20text-you%20like-blue"/>
-</div>
-
-<a href="https://github.com/adarnopyh" target="_blank">
-  <img src="https://img.shields.io/badge/Profile-adarnopyh-blue?style=for-the-badge&logo=github" alt="GitHub Badge" height="70">
-</a>
 
 
 
