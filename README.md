@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Java developer</h3>
 <h3 align="center">▙ I’m currently learning Spring Framework</h3>
 
-<h4 align="left">nice techs:</h4>
+<h3 align="left">nice techs:</h3>
 <img src="assets/header-pan1.svg" alt="pan"/>
 <p align="center">
   <img src="assets/gif/html5-rose.gif" alt="html5" width="100"/>
@@ -16,7 +16,7 @@
   <img src="assets/gif/docker-rose.gif" alt="springboot" width="100"/>
 </p>
 <img src="assets/footer-pan.svg" alt="pan"/>
-<h4 align="left">fun:</h4>
+<h3 align="left">fun:</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarnopyh/adarnopyh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarnopyh/adarnopyh/output/github-snake.svg" />
@@ -24,7 +24,7 @@
 </picture>
 
 
-<h4 align="left">stack and co:</h4>
+<h3 align="left">stack and co:</h3>
 <img src="assets/header-pan1.svg" alt="pan"/>
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -57,16 +57,19 @@
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi">
   </p>
 <img src="assets/footer-pan.svg" alt="pan"/>
+<h3 align="left">stats:</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=adarnopyh&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adarnopyh&theme=radical&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarnopyh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+<h3 align="left">lyrics:</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adarnopyh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adarnopyh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarnopyh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=adarnopyh&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=adarnopyh&icon=0&color=0" alt="Visitor Count"/>
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
