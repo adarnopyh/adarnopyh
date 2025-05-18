@@ -1,7 +1,7 @@
 <img src="assets/header.svg" alt="win"/>
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2105AC&background=FF247300&width=435&lines=Hi%2C+my+name+is+Askold.;I+like+to+make+thing+happen" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2105AC&background=FF247300&center=true&width=435&lines=Hi%2C+my+name+is+Askold.;And+I+like+to+make+things+happen." alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate Java developer</h3>
